@@ -30,5 +30,5 @@ and solving logic problems to analysing datasets using Pandas and exporting resu
 - Generated pivot tables for insights
 - Exported cleaned dataset
 
-[Open Notebook](../bootcamp_python_learning.ipynb)
+[Open Notebook](Python/bootcamp_python_learning.ipynb)
 
