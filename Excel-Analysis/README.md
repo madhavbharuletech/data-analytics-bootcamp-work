@@ -11,3 +11,5 @@ This folder contains Excel-based exercises completed during my data analytics bo
 
 ## File
 Data Technician Workbook – Excel tasks and analysis exercises
+📄 [Data Technician Workbook – Excel Tasks](Data_Technician_Workbook (excel).docx)
+
