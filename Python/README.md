@@ -1,11 +1,30 @@
-# Python Learning Journey – Madhav S. Bharule
+📘 Python Programming & Data Analysis
 
-This notebook documents my step-by-step learning of Python fundamentals and data analysis.
+This folder contains my Python learning work completed during my data analytics bootcamp.
+It documents my progression from core programming concepts to applying Python for data analysis.
 
-It includes:
-- Core Python concepts (variables, loops, logic)
-- Data structures (lists, sets, dictionaries)
-- Problem-solving exercises
-- Pandas data analysis using a student dataset
+The work demonstrates the full learning workflow — from understanding programming fundamentals
+and solving logic problems to analysing datasets using Pandas and exporting results.
 
-The goal of this notebook is to demonstrate my learning progression.
+---
+
+## Skills Demonstrated
+
+- Python fundamentals (variables, loops, conditionals)
+- Working with data structures (lists, sets, dictionaries)
+- Problem-solving exercises and logic building
+- Data manipulation using Pandas
+- Exploratory Data Analysis (EDA)
+- Data transformation and feature engineering
+- Exporting datasets for reporting
+
+---
+
+## Analytical Work Included
+
+### Student Dataset Analysis
+- Explored dataset structure and summary statistics
+- Applied filtering and grouping techniques
+- Created derived features (grading system)
+- Generated pivot tables for insights
+- Exported cleaned dataset
