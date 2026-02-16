@@ -30,7 +30,8 @@ and solving logic problems to analysing datasets using Pandas and exporting resu
 - Generated pivot tables for insights
 - Exported cleaned dataset
 
-[Open Notebook](data-analytics-bootcamp-work/Python
-/bootcamp_python_learning.ipynb
-)
+## 📂 Learning Notebook
+
+👉 [Open Python Learning Notebook](bootcamp_python_learning.ipynb)
+
 
