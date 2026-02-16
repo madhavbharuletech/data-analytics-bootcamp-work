@@ -1,4 +1,4 @@
-📊 Python & Data Analysis
+# 📊 Python & Data Analysis
 
 
 This folder contains my Python learning work completed during my data analytics bootcamp.
@@ -29,3 +29,6 @@ and solving logic problems to analysing datasets using Pandas and exporting resu
 - Created derived features (grading system)
 - Generated pivot tables for insights
 - Exported cleaned dataset
+
+[Open Notebook](../bootcamp_python_learning.ipynb)
+
