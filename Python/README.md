@@ -1,4 +1,5 @@
-📘 Python Programming & Data Analysis
+📊 Python & Data Analysis
+
 
 This folder contains my Python learning work completed during my data analytics bootcamp.
 It documents my progression from core programming concepts to applying Python for data analysis.
