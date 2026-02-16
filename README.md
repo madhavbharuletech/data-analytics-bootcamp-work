@@ -6,7 +6,7 @@ Selected bootcamp coursework showcasing my skills across Python, SQL, Excel, Tab
 
 ## 📌 Portfolio Overview
 
-This repository contains projects and exercises completed during my Data Analytics bootcamp.  
+This repository contains Labs and Exercises completed during my Data Analytics bootcamp.  
 It demonstrates my ability to work across the analytics workflow — from data exploration and
 cleaning to analysis, visualisation, and communicating insights.
 
