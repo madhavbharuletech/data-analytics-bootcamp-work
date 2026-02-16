@@ -6,8 +6,8 @@ Selected bootcamp coursework showcasing my skills across Python, SQL, Excel, Tab
 
 ## 📌 Portfolio Overview
 
-This repository contains Labs and Exercises completed during my Data Analytics bootcamp.  
-It demonstrates my ability to work across the analytics workflow — from data exploration and
+This repository contains Labs and Exercises completed during my Data Analytics bootcamp at Just IT, London, UK.  
+It demonstrates my learning and work across the analytics workflow — from data exploration and
 cleaning to analysis, visualisation, and communicating insights.
 
 ---
