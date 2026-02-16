@@ -1,34 +1,27 @@
 # 📊 Data Analytics Bootcamp Portfolio
 
-Selected bootcamp coursework showcasing my skills across Python, SQL, Excel, Tableau, and Power BI.
+Selected bootcamp coursework showcasing my skills across the analytics stack — from data querying and analysis to visualisation and storytelling.
 
 ---
 
-## 📌 Portfolio Overview
+## 🛠️ Tech Stack
 
-This repository contains projects and exercises completed during my Data Analytics bootcamp.  
-It demonstrates my ability to work across the analytics workflow — from data exploration and
-cleaning to analysis, visualisation, and communicating insights.
-
----
-
-## 🛠 Tools & Technologies
-
-- Python (Pandas, data analysis)
-- SQL (data querying and transformation)
-- Excel (data analysis and reporting)
-- Tableau (dashboard development)
-- Power BI (data modelling and visualisation)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
 ## ⭐ Key Highlights
 
-- Built an end-to-end Python data analysis workflow using Pandas  
-- Performed SQL analysis on structured datasets  
-- Created dashboards to communicate insights visually  
-- Applied data cleaning, transformation, and feature engineering  
-- Practised exploratory data analysis (EDA) techniques  
+- Built an end-to-end **Python data analysis workflow** using Pandas  
+- Performed **SQL analysis** on structured datasets  
+- Created **interactive dashboards** to communicate insights  
+- Applied **data cleaning, transformation, and feature engineering**  
+- Practised **exploratory data analysis (EDA)** techniques  
 
 ---
 
@@ -40,8 +33,8 @@ cleaning to analysis, visualisation, and communicating insights.
 - 📂 [Tableau-PowerBI](Tableau-PowerBI/) → Dashboards and visual storytelling  
 
 ---
-## 📫 Connect With Me
 
-- LinkedIn: (www.linkedin.com/in/madhav-bharule-0088933ab)
-- Email: (madhav.bharule.tech@gmail.com) 
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE)
 
