@@ -10,6 +10,7 @@ This folder contains Excel-based exercises completed during my data analytics bo
 - Visualisations
 
 ## File
-📄 [Data Technician Workbook – Excel Tasks](Excel-Analysis/Data_Technician_Workbook%20(excel).docx)
+📄 [Data Technician Workbook – Excel Tasks](Data_Technician_Workbook_(Excel).docx)
+
 
 
