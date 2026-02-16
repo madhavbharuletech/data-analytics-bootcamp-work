@@ -34,10 +34,10 @@ cleaning to analysis, visualisation, and communicating insights.
 
 ## 🧭 Repository Structure
 
-- 📂 **Python** → Programming fundamentals and data analysis work  
-- 📂 **SQL** → Querying and data transformation exercises  
-- 📂 **Excel-Analysis** → Spreadsheet-based analysis  
-- 📂 **Tableau-PowerBI** → Dashboards and visual storytelling  
+- 📂 [Python](Python/) → Programming fundamentals and data analysis work  
+- 📂 [SQL](SQL/) → Querying and data transformation exercises  
+- 📂 [Excel-Analysis](Excel-Analysis/) → Spreadsheet-based analysis  
+- 📂 [Tableau-PowerBI](Tableau-PowerBI/) → Dashboards and visual storytelling  
 
 ---
 ## 📫 Connect With Me
