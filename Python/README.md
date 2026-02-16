@@ -33,5 +33,7 @@ and solving logic problems to analysing datasets using Pandas and exporting resu
 ## 📂 Learning Notebook
 
 👉 [Open Python Learning Notebook](bootcamp_python_learning.ipynb)
+👉 [Student Dataset](student.csv)
+
 
 
