@@ -43,6 +43,6 @@ cleaning to analysis, visualisation, and communicating insights.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link here)
-- Email: (optional)
+- LinkedIn: (www.linkedin.com/in/madhav-bharule-0088933ab)
+- Email: (madhav.bharule.tech@gmail.com)
 
